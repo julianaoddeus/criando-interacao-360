@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200;400&family=Lato:wght@100&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: #d9cdf7;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+  margin-top: 400px;
+}
+.esquerda-informacao-produto {
+  line-height: 40px;
+}
+
+.btn-adicionar {
+  background-color: transparent;
+  padding: 8px 16px;
+  border-radius: 30px;
+
+  font-size: 12px;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 16px;
+  margin-top: 20px;
+}
+
+.atualizar-imagem{
+  position: relative;
+  right: -350px;
+}
