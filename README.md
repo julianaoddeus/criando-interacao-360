@@ -8,5 +8,5 @@
  - Javascript
 
  <p align="center">
-      <img width="460" heigth="300" src="https://github.com/julianaoddeus/criando-interacao-360/blob/main/sof-360.mp4">
+      <img width="460" heigth="300" src="https://github.com/julianaoddeus/criando-interacao-360/blob/main/sofa-360.mp4">
   </p>
